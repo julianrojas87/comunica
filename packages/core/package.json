@@ -38,7 +38,7 @@
   "dependencies": {
     "@comunica/context-entries": "^1.22.0",
     "@comunica/types": "^1.22.0",
-    "immutable": "^3.8.2"
+    "immutable": "^4.0.0"
   },
   "jest": {
     "globals": {
